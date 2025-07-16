@@ -1,3 +1,4 @@
+
 # MicToggle
 
 **MicToggle** is a lightweight microphone control tool designed for focus and clarity. Instantly mute or unmute your mic using a custom hotkey — no matter what you're doing. Stay aware of your mic status with a movable on-screen overlay, system tray icon, and optional audio cues. Choose your preferred microphone, set startup behavior, and enjoy a clean, unobtrusive interface. Whether you're gaming, streaming, or in meetings, **MicToggle** keeps you in control.
@@ -18,8 +19,5 @@
 
 **Screenshots**
 
-![Friendly and informative UI and easy controls](https://lh3.googleusercontent.com/d/1Pin0Hsm3NoXvLcYOD3j-p3G9fXr_Ranm)
-
-![Control everything from system tray icon](https://lh3.googleusercontent.com/d/1ESk53r9PJZqKNdsSuoHe7w5MA9iAQ9ov)
-
-![Customize Settings with friendly settings for easy usage](https://lh3.googleusercontent.com/d/17nCY28z-BWAM7MaJuYrmLwxfVQI63m24)
+| ![Friendly and informative UI and easy controls](https://lh3.googleusercontent.com/d/1Pin0Hsm3NoXvLcYOD3j-p3G9fXr_Ranm) | ![Control everything from system tray icon](https://lh3.googleusercontent.com/d/1ESk53r9PJZqKNdsSuoHe7w5MA9iAQ9ov) | ![Customize Settings with friendly settings for easy usage](https://lh3.googleusercontent.com/d/17nCY28z-BWAM7MaJuYrmLwxfVQI63m24) |
+|:-:|:-:|:-:|
