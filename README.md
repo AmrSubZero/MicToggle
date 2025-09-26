@@ -21,3 +21,9 @@
 
 | ![Friendly and informative UI and easy controls](https://lh3.googleusercontent.com/d/1Pin0Hsm3NoXvLcYOD3j-p3G9fXr_Ranm) | ![Control everything from system tray icon](https://lh3.googleusercontent.com/d/1ESk53r9PJZqKNdsSuoHe7w5MA9iAQ9ov) | ![Customize Settings with friendly settings for easy usage](https://lh3.googleusercontent.com/d/17nCY28z-BWAM7MaJuYrmLwxfVQI63m24) |
 |:-:|:-:|:-:|
+
+---
+
+<a href='https://ko-fi.com/K3K71LV5WU' target='_blank'>
+    <img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png' border='0' alt='Support Me on Ko-fi' />
+</a>
